@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <catalog>
     <plant id="1">
-        <name>Rubber Plant</name>
+        <name>Neon Pothos</name>
         <type>Houseplant</type>
         <light>Low Light</light>
         <age>0.2 years</age>
         <watering>Moderate</watering>
+        <image>images\Neon Pothos.jpg</image>
     </plant>
     <plant id="2">
         <name>Succulent Aloe</name>
@@ -13,6 +14,7 @@
         <light>Full Sun</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <image>images\Succulent Aloe.jpg</image>
     </plant>
     <plant id="3">
         <name>Spider Plant</name>
@@ -20,6 +22,7 @@
         <light>Low Light</light>
         <age>1 year</age>
         <watering>Moderate</watering>
+        <image>images\Spider Plant.jpg</image>
     </plant>
     <plant id="4">
         <name>Monstera</name>
@@ -27,6 +30,7 @@
         <light>Medium to Bright Indirect Light</light>
         <age>3 years</age>
         <watering>Moderate</watering>
+        <image>images\Monstera.jpg</image>
     </plant>
     <plant id="5">
         <name>Phalaenopsis Orchid</name>
@@ -34,6 +38,7 @@
         <light>Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Weekly</watering>
+        <image>images\Phalaenopsis Orchid.jpg</image>
     </plant>
     <plant id="6">
         <name>Moth Orchid</name>
@@ -41,6 +46,7 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Weekly</watering>
+        <image>images\Moth Orchid.jpg</image>
     </plant>
     <plant id="7">
         <name>Rock Orchid</name>
@@ -48,6 +54,7 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Weekly</watering>
+        <image>images\Rock Orchid.jpg</image>
     </plant>
     <plant id="8">
         <name>Boston Fern</name>
@@ -55,6 +62,7 @@
         <light>Indirect Light</light>
         <age>2 years</age>
         <watering>Regularly</watering>
+        <image>images\Boston Fern.jpg</image>
     </plant>
     <plant id="9">
         <name>Rabbit Foot Fern</name>
@@ -62,6 +70,7 @@
         <light>Indirect Light</light>
         <age>3 years</age>
         <watering>Regularly</watering>
+        <image>images\Rabbit Foot Fern.jpg</image>
     </plant>
     <plant id="10">
         <name>Monstera Swiss Cheese</name>
@@ -69,6 +78,7 @@
         <light>Medium to Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Moderate</watering>
+        <image>images\Monstera Swiss Cheese.jpg</image>
     </plant>
     <plant id="11">
         <name>ZZ Plant</name>
@@ -76,6 +86,7 @@
         <light>Low to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <image>images\ZZ Plant.jpg</image>
     </plant>
     <plant id="12">
         <name>String of Bananas</name>
@@ -83,6 +94,7 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Low</watering>
+        <image>images\String of Bananas.jpg</image>
     </plant>
     <plant id="13">
         <name>String of Hearts</name>
@@ -90,6 +102,7 @@
         <light>Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <image>images\String of Hearts.jpg</image>
     </plant>
     <plant id="14">
         <name>String of Dolphins</name>
@@ -97,6 +110,7 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Low</watering>
+        <image>images\String of Dolphins.jpg</image>
     </plant>
     <plant id="15">
         <name>Pothos (Marble Queen)</name>
@@ -104,6 +118,7 @@
         <light>Low to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <image>images\Pothos (Marble Queen).jpg</image>
     </plant>
     <plant id="16">
         <name>Peace Lily</name>
@@ -111,6 +126,7 @@
         <light>Low to Medium Indirect Light</light>
         <age>3 years</age>
         <watering>Moderate</watering>
+        <image>images\Peace Lily.jpg</image>
     </plant>
     <plant id="17">
         <name>Syngonium</name>
@@ -118,6 +134,7 @@
         <light>Medium to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Moderate</watering>
+        <image>images\Syngonium.jpg</image>
     </plant>
     <plant id="18">
         <name>Syngonium Confetti</name>
@@ -125,6 +142,7 @@
         <light>Medium to Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Moderate</watering>
+        <image>images\Syngonium Confetti.jpg</image>
     </plant>
     <plant id="19">
         <name>String of Pearls</name>
@@ -132,6 +150,7 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Low</watering>
+        <image>images\String of Pearls.jpg</image>
     </plant>
     <plant id="20">
         <name>Snake Plant</name>
@@ -139,6 +158,7 @@
         <light>Low to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <image>images\Snake Plant.jpg</image>
     </plant>
     <plant id="21">
         <name>Old Lady Cactus</name>
@@ -146,5 +166,6 @@
         <light>Bright Indirect Light</light>
         <age>4 years</age>
         <watering>Low</watering>
+        <image>images\Old Lady Cactus.jpg</image>
     </plant>
 </catalog>
