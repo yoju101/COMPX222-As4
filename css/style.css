@@ -3,7 +3,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f8f8f8;
+    background-color: #e50f0f;
 }
 
 h1 {
@@ -41,8 +41,8 @@ a:hover {
 .plant {
     /* display: flex; 
     align-items: center;  */
-    background-color: #fff;
-    border: 1px solid #ccc;
+    background-color: #04c786;
+    border: 1px solid #000000;
     padding: 10px;
     margin-bottom: 10px;
     text-align: center;

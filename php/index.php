@@ -56,7 +56,7 @@ else
             // Iterate through each plant and display matching results
             //echo "Read in a catalog with ".$catalog->count()." Plants.\n";
             foreach ($catalog->plant as $plant) {
-                if (stripos($plant->name, $searchTerm) !== false) {
+                if (stripos($plant->name, $searchTerm) !== false){
                     echo "<div class='plant'>";
                     echo "<h2><a href='display.php?id={$plant['id']}'>{$plant->name}</a></h2>";
                     echo "<p>Type: {$plant->type}</p>";
@@ -76,9 +76,6 @@ else
                 echo "<p>Light: {$plant->light}</p>";
                 echo "<p>Age: {$plant->age}</p>";
                 echo "<p>Watering: {$plant->watering}</p>";
-                // echo "</div>";
-                // echo "<div class='new-plant'>";
-                
                 echo "<img src='{$plant->image}' alt='{$plant->name}'>";
                 echo "</div>";
             }

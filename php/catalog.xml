@@ -6,6 +6,9 @@
         <light>Low Light</light>
         <age>0.2 years</age>
         <watering>Moderate</watering>
+        <temperature>65-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Neon Pothos.jpg</image>
     </plant>
     <plant id="2">

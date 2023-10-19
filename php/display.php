@@ -25,6 +25,9 @@ $plant = $catalog->xpath("//plant[@id='$id']")[0];
         <p>Light: <?= $plant->light ?></p>
         <p>Age: <?= $plant->age ?></p>
         <p>Watering: <?= $plant->watering ?></p>
+        <p>Soil: <?= $plant->soil ?></p>
+        <p>Humidity: <?= $plant->humidity ?></p>
+        <p>Temperature: <?= $plant->temperature ?></p>
         <img src="<?= $plant->image ?>" alt="<?= $plant->name ?>">
         
     </div>
