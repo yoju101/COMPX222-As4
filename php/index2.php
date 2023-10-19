@@ -75,7 +75,6 @@ else
                     echo "<p>Light: {$plant->light}</p>";
                     echo "<p>Age: {$plant->age}</p>";
                     echo "<p>Watering: {$plant->watering}</p>";
-                    echo "</div>";
                     echo "<img src='{$plant->image}' alt='{$plant->name}'>";
                     echo "</div>";
                 }
@@ -89,8 +88,9 @@ else
                 echo "<p>Light: {$plant->light}</p>";
                 echo "<p>Age: {$plant->age}</p>";
                 echo "<p>Watering: {$plant->watering}</p>";
-                echo "</div>";
-                echo "<div class='new-plant'>";
+                // echo "</div>";
+                // echo "<div class='new-plant'>";
+                
                 echo "<img src='{$plant->image}' alt='{$plant->name}'>";
                 echo "</div>";
             }

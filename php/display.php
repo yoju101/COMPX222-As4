@@ -19,13 +19,14 @@ $plant = $catalog->xpath("//plant[@id='$id']")[0];
 </head>
 <body>
     <h1><?= $plant->name ?> Details</h1>
-
     <div class='plant'>
         <h2><?= $plant->name ?></h2>
         <p>Type: <?= $plant->type ?></p>
         <p>Light: <?= $plant->light ?></p>
         <p>Age: <?= $plant->age ?></p>
         <p>Watering: <?= $plant->watering ?></p>
+        <img src="<?= $plant->image ?>" alt="<?= $plant->name ?>">
+        
     </div>
     <a href="index.php">Back to Catalog</a>
 </body>
