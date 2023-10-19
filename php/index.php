@@ -39,21 +39,9 @@ else
         <input type="text" name="search" id="search" required>
         <input type="submit" value="Search">
         <?php
-        // // Read the plant catalog
-        // $catalog = simplexml_load_file("catalog.xml");
         echo "<ul>";
         
         echo "<ul>";
-        // Print out all the titles in the catalog
-        // echo "Titles in the catalogue:\n";
-        // echo "<ul>";
-        // $results=$catalog->xpath("//name");
-        // foreach ($results as $result){
-        //    // echo "  $result\n\r";
-        //    echo "<li>$result</li>";
-        // }
-        // echo "</ul>";
-
             // Check if the "Show All" button was clicked
             if(isset($_POST['showAll'])) {
                 // Reload the page to display all plants
@@ -94,7 +82,8 @@ else
                 echo "<img src='{$plant->image}' alt='{$plant->name}'>";
                 echo "</div>";
             }
-        } ?>
+        }
+         ?>
     </form>
 </body>
 </html>
