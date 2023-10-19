@@ -17,6 +17,9 @@
         <light>Full Sun</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <temperature>60-75F</temperature>
+        <humidity>30-40%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Succulent Aloe.jpg</image>
     </plant>
     <plant id="3">
@@ -25,6 +28,9 @@
         <light>Low Light</light>
         <age>1 year</age>
         <watering>Moderate</watering>
+        <temperature>60-75F</temperature>
+        <humidity>40-50%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Spider Plant.jpg</image>
     </plant>
     <plant id="4">
@@ -33,6 +39,9 @@
         <light>Medium to Bright Indirect Light</light>
         <age>3 years</age>
         <watering>Moderate</watering>
+        <temperature>65-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Monstera.jpg</image>
     </plant>
     <plant id="5">
@@ -41,6 +50,9 @@
         <light>Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Weekly</watering>
+        <temperature>65-75F</temperature>
+        <humidity>50-70%</humidity>
+        <soil>Orchid Mix</soil>
         <image>images\Phalaenopsis Orchid.jpg</image>
     </plant>
     <plant id="6">
@@ -49,6 +61,9 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Weekly</watering>
+        <temperature>65-75F</temperature>
+        <humidity>50-70%</humidity>
+        <soil>Orchid Mix</soil>
         <image>images\Moth Orchid.jpg</image>
     </plant>
     <plant id="7">
@@ -57,6 +72,9 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Weekly</watering>
+        <temperature>65-75F</temperature>
+        <humidity>50-70%</humidity>
+        <soil>Orchid Mix</soil>
         <image>images\Rock Orchid.jpg</image>
     </plant>
     <plant id="8">
@@ -65,6 +83,9 @@
         <light>Indirect Light</light>
         <age>2 years</age>
         <watering>Regularly</watering>
+        <temperature>60-75F</temperature>
+        <humidity>50-70%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Boston Fern.jpg</image>
     </plant>
     <plant id="9">
@@ -73,6 +94,9 @@
         <light>Indirect Light</light>
         <age>3 years</age>
         <watering>Regularly</watering>
+        <temperature>60-75F</temperature>
+        <humidity>50-70%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Rabbit Foot Fern.jpg</image>
     </plant>
     <plant id="10">
@@ -81,6 +105,9 @@
         <light>Medium to Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Moderate</watering>
+        <temperature>65-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Monstera Swiss Cheese.jpg</image>
     </plant>
     <plant id="11">
@@ -89,6 +116,9 @@
         <light>Low to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <temperature>60-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\ZZ Plant.jpg</image>
     </plant>
     <plant id="12">
@@ -97,6 +127,9 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Low</watering>
+        <temperature>65-75F</temperature>
+        <humidity>30-40%</humidity>
+        <soil>Well-draining</soil>
         <image>images\String of Bananas.jpg</image>
     </plant>
     <plant id="13">
@@ -105,6 +138,9 @@
         <light>Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <temperature>65-75F</temperature>
+        <humidity>30-40%</humidity>
+        <soil>Well-draining</soil>
         <image>images\String of Hearts.jpg</image>
     </plant>
     <plant id="14">
@@ -113,6 +149,9 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Low</watering>
+        <temperature>65-75F</temperature>
+        <humidity>30-40%</humidity>
+        <soil>Well-draining</soil>
         <image>images\String of Dolphins.jpg</image>
     </plant>
     <plant id="15">
@@ -121,6 +160,9 @@
         <light>Low to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <temperature>60-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Pothos (Marble Queen).jpg</image>
     </plant>
     <plant id="16">
@@ -129,6 +171,9 @@
         <light>Low to Medium Indirect Light</light>
         <age>3 years</age>
         <watering>Moderate</watering>
+        <temperature>60-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Peace Lily.jpg</image>
     </plant>
     <plant id="17">
@@ -137,6 +182,9 @@
         <light>Medium to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Moderate</watering>
+        <temperature>60-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Syngonium.jpg</image>
     </plant>
     <plant id="18">
@@ -145,6 +193,9 @@
         <light>Medium to Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Moderate</watering>
+        <temperature>60-75F</temperature>
+        <humidity>40-60%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Syngonium Confetti.jpg</image>
     </plant>
     <plant id="19">
@@ -153,6 +204,9 @@
         <light>Bright Indirect Light</light>
         <age>1 year</age>
         <watering>Low</watering>
+        <temperature>65-75F</temperature>
+        <humidity>30-40%</humidity>
+        <soil>Well-draining</soil>
         <image>images\String of Pearls.jpg</image>
     </plant>
     <plant id="20">
@@ -161,6 +215,9 @@
         <light>Low to Bright Indirect Light</light>
         <age>2 years</age>
         <watering>Low</watering>
+        <temperature>60-75F</temperature>
+        <humidity>30-40%</humidity>
+        <soil>Well-draining</soil>
         <image>images\Snake Plant.jpg</image>
     </plant>
     <plant id="21">
@@ -169,6 +226,9 @@
         <light>Bright Indirect Light</light>
         <age>4 years</age>
         <watering>Low</watering>
+        <temperature>65-75F</temperature>
+        <humidity>20-30%</humidity>
+        <soil>Cactus Mix</soil>
         <image>images\Old Lady Cactus.jpg</image>
     </plant>
 </catalog>
